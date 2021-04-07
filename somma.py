@@ -1,0 +1,6 @@
+print("Guarda come sono bravo a sommare due numeri interi.")
+numero1=input("Digita un numero a piacere e premi invio")
+numero2=input("Digitane un altro")
+numero1=int(numero1)
+numero2=int(numero2)
+print("La somma di", numero1, "+", numero2, "è", numero1+numero2)
